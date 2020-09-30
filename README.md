@@ -1,4 +1,4 @@
-﻿LeetCode
+﻿LeeTCode
 =========
 
 My LeetCode solutions written in C++
